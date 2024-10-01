@@ -1,0 +1,15 @@
+D:\kerja\nexin\wpf\mission-status\hana\hana\obj\Debug\hana.csproj.AssemblyReference.cache
+D:\kerja\nexin\wpf\mission-status\hana\hana\obj\Debug\hana.csproj.SuggestedBindingRedirects.cache
+D:\kerja\nexin\wpf\mission-status\hana\hana\obj\Debug\MainWindow.baml
+D:\kerja\nexin\wpf\mission-status\hana\hana\obj\Debug\MainWindow.g.cs
+D:\kerja\nexin\wpf\mission-status\hana\hana\obj\Debug\App.g.cs
+D:\kerja\nexin\wpf\mission-status\hana\hana\obj\Debug\hana_MarkupCompile.cache
+D:\kerja\nexin\wpf\mission-status\hana\hana\obj\Debug\hana.g.resources
+D:\kerja\nexin\wpf\mission-status\hana\hana\obj\Debug\hana.Properties.Resources.resources
+D:\kerja\nexin\wpf\mission-status\hana\hana\obj\Debug\hana.csproj.GenerateResource.cache
+D:\kerja\nexin\wpf\mission-status\hana\hana\obj\Debug\hana.csproj.CoreCompileInputs.cache
+D:\kerja\nexin\wpf\mission-status\hana\hana\bin\Debug\hana.exe.config
+D:\kerja\nexin\wpf\mission-status\hana\hana\bin\Debug\hana.exe
+D:\kerja\nexin\wpf\mission-status\hana\hana\bin\Debug\hana.pdb
+D:\kerja\nexin\wpf\mission-status\hana\hana\obj\Debug\hana.exe
+D:\kerja\nexin\wpf\mission-status\hana\hana\obj\Debug\hana.pdb
